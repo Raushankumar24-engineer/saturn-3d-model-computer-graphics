@@ -1,2 +1,76 @@
-# saturn-3d-model-computer-graphics
-A 3D-style Saturn model built using C and Turbo C++ BGI Graphics, demonstrating Scaling, Translation, and Rotation with interactive keyboard controls, planetary shading, elliptical rings, and a starry background.
+\# Saturn 3D Model – Computer Graphics Project
+
+
+
+A 3D-style Saturn model developed using C programming and Turbo C++ BGI Graphics.
+
+
+
+\## Features
+
+\- Saturn model with elliptical rings
+
+\- Scaling transformation
+
+\- Translation transformation
+
+\- Rotation transformation
+
+\- Interactive keyboard controls
+
+\- Starry space background
+
+
+
+\## Technologies Used
+
+\- C Programming
+
+\- Turbo C++
+
+\- BGI Graphics Library
+
+\- graphics.h
+
+\- math.h
+
+
+
+\## Keyboard Controls
+
+
+
+| Key | Function |
+
+|---|---|
+
+| Arrow Keys | Translation |
+
+| + / - | Scaling |
+
+| A / D | Rotation |
+
+| R | Reset |
+
+| ESC | Exit |
+
+
+
+\## Project Information
+
+
+
+\*\*Subject:\*\* Computer Graphics
+
+
+
+\*\*Faculty:\*\* Ms. Pratima Mall
+
+
+
+\*\*Project Members:\*\*
+
+1\. Raushan Kumar
+
+2\. Suhail Ansari
+
